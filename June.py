@@ -5,7 +5,7 @@ import easygui as gui
 def June(day):
     if day == '8':
         J8()
-
+#--------JUNE 8TH: PALINDROMES----------#
 def J8():
     #Make any number into a palendrome.
     #URL: http://www.reddit.com/r/dailyprogrammer/comments/38yy9s/20150608_challenge_218_easy_making_numbers/
